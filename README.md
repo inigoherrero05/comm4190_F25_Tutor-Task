@@ -5,7 +5,7 @@
 
 ### Stages
 
-- [](1st_Conversation.ipynb)
+- [1st Conversation](1st_Conversation.ipynb)
 This is the first session and serves as a baseline. There’s no structure or predefined instructions: the student simply says, “I want you to be my tutor,” and the conversation unfolds naturally.
 It’s used to observe how the model behaves on its own and what kind of interaction it produces without guidance.
 
